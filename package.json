@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TurtleStoffel/visualisations/issues"
   },
-  "homepage": "https://github.com/TurtleStoffel/visualisations#readme"
+  "homepage": "https://github.com/TurtleStoffel/visualisations#readme",
+  "dependencies": {
+    "three": "^0.157.0"
+  }
 }
